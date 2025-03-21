@@ -14,5 +14,4 @@ Server: https://restful-booker.herokuapp.com
 - Report will be generated in Report folder
 
   ## Test Report
-  ![image alt](https://raw.githubusercontent.com/hasiroy879/Transaction_on_jmeter/b4a567e23bacde6202dca9c1582c6ec12eeb6df4/Capture2.PNG)
-
+  ![image alt](https://github.com/hasiroy879/Load_Test_On_JMeter/blob/main/Capture.PNG?raw=true)
