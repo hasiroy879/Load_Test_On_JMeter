@@ -1,6 +1,7 @@
 # Demo for Load Testing
-## Description: By this project named Booking, I can perform load testing on a booking website. Link of the base url is :
-Server: https://restful-booker.herokuapp.com
+## Description: By this project named Booking, I can perform load testing on a booking website. 
+Link of the base url is :
+https://restful-booker.herokuapp.com
 
 ## Technology I used:
 - JMeter
